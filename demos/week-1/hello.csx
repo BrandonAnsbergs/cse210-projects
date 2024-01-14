@@ -1,4 +1,4 @@
 using Internal;
 
-Console. writeline("Hello!!!!");
-Console
+Console. WriteLine("Hello!!!!");
+
